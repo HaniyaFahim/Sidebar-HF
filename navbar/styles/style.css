@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+
+
+
+img{
+    margin-left: 180px;
+    border: 10px solid brown;
+    border-radius: 20%;
+}
+img:hover{
+    border: black 10px solid;
+    border-radius: 20%;
+}
+h4{
+    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+    color: white;
+    font: 30px  Georgia, serif;
+}
+body{
+    background-image: url("/images/bg.cms");
+    font-family: 'Bungee Shade', cursive;
+    color: white;
+}

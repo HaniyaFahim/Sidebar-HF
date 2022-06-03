@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bonbon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aladin&display=swap');
+
+
+body{
+    background: url("/images/bg1");
+}
+h1{
+    font-family: 'Bonbon', cursive;
+    border: 10px dotted purple;
+    margin-right: 20rem;
+    margin-left: 20rem;
+background: radial-gradient(rgb(0, 255, 149) 40%,rgb(0, 238, 255) 100%,rgb(255, 0, 0) 50%);
+border-radius: 50%;
+color: black;
+}
+p{
+    font-size: 30px;
+    font-family: 'Love Ya Like A Sister', cursive;
+    text-decoration: underline dotted blue;
+
+}
+a{
+    font-size: 30px;
+    
+    text-decoration: underline dotted blue;
+
+}
+h3{
+    font-size: xx-large;
+    font-family: 'Aladin', cursive;
+    
+
+}
+iframe{
+    margin: 10px;
+    border: 10px ridge rgb(197, 106, 2);    
+    text-decoration: underline dotted blue;
+
+}
+u{
+    background: lightskyblue;
+    padding: 5px;
+    text-decoration: underline dotted blue;
+
+}
